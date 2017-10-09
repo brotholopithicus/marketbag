@@ -29,7 +29,7 @@ export default {
 
 html {
   background: linear-gradient( var(--bg-overlay),
-  var(--bg-overlay)), url(../assets/image0006_270.jpg) no-repeat center center fixed;
+  var(--bg-overlay)), url(./assets/image0006_270.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 
